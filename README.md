@@ -1,2 +1,2 @@
 # Preperation_Data_Engineer
-In this repo we will trty to prepare for data engineer interviews by studying some data sturctures, algorithm, data modeling, etc.....
+In this repository, we will prepare for **Data Engineer interviews** by studying and practicing key topics such as data structures, algorithms, data modeling, and other essential concepts related to data engineering. 🚀
